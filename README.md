@@ -1,2 +1,2 @@
 # Collaboration
-Collection of Collaboration Projects
+Collection of Collaboration Projects with Joshua Discar
